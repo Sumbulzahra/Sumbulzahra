@@ -1,5 +1,5 @@
 
-# Hello, I'm Sumbul Zahra
+# Hello, I'm S.Zahra
 <a href="https://linkedin.com/in/sumbulzahra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cloud Cybersecurity diploma holder with a strong passion for technology and safeguarding digital systems, dedicated to continuously enhancing my skills in cybersecurity.
