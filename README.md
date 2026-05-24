@@ -1,5 +1,5 @@
 
-# Hi there, I'm Syeda Zahra! 👋 (DevOps Engineer)
+# Hi there, I'm Sumbul Zahra! 👋 (DevOps Engineer)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sumbulzahra&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
@@ -10,7 +10,7 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
 ---
 
 ### 🏢 Current & Past Experience
-- 🚀 **Internship:** Currently working as a DevOps Intern at **Hack Software**.
+- 🚀 **Internship:** Currently working as a DevOps Intern at **Hax Software**.
 - 🎓 **Education:** Studied **Cloud Cyber Security** at **Al-Nafi International College**.
 - 🎯 **Goal:** Constantly learning and mastering DevOps tools to build high-availability architectures.
 
