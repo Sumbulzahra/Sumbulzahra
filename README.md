@@ -1,10 +1,8 @@
 
-# Hello, I'm S.Zahra
-
 # Hi there, I'm Syeda Zahra! 👋 (DevOps Engineer)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sumbulzahra&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently shaping my career in the world of Automation, Infrastructure as Code (IaC), and Cloud Technologies. I love bridging the gap between development and operations to build scalable, secure, and efficient systems.
@@ -52,19 +50,19 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
 ### 📁 Featured Projects
 Here are some of my major projects that demonstrate my DevOps and Cloud skills:
 
-- 🔗 **[Project Title 1 - e.g., Dockerized Web Application]()**
-  - Brief description: Built and containerized a multi-tier application using Docker and optimized its deployment.
-- 🔗 **[Project Title 2 - e.g., Kubernetes Deployment Pipeline](PASTE_YOUR_PROJECT_LINK_HERE)**
-  - Brief description: Deployed a scalable application cluster on Kubernetes with zero-downtime strategy.
-- 🔗 **[Project Title 3 - e.g., Bash Automation Script](PASTE_YOUR_PROJECT_LINK_HERE)**
-  - Brief description: Automated backup and server monitoring tasks using Bash and Cron jobs.
+- 🔗 **[Project 1: Linux & Bash Automation](PASTE_YOUR_PROJECT_LINK_HERE)**
+  - Automated system updates, backups, and user management tasks using advanced Bash scripting.
+- 🔗 **[Project 2: Docker Containerization Application](PASTE_YOUR_PROJECT_LINK_HERE)**
+  - Successfully containerized a web application setup, optimizing environment consistency across development and production.
+- 🔗 **[Project 3: Cyber Security Vulnerability Assessment](PASTE_YOUR_PROJECT_LINK_HERE)**
+  - Conducted network mapping and security auditing using tools learned during Al-Nafi tenure.
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="Zahra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=121212" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumbulzahra&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="Zahra's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumbulzahra&layout=compact&theme=dark&hide_border=true&bg_color=121212" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -74,4 +72,3 @@ Let's connect and share ideas about DevOps, Cloud, and Tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miss-s-zahra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
