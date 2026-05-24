@@ -48,14 +48,8 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
 ---
 
 ### 📁 Featured Projects
-Here are some of my major projects that demonstrate my DevOps and Cloud skills:
+👉 **[Click here to view my complete portfolio on LinkedIn where all my projects are detailed!] (https://www.linkedin.com/in/miss-s-zahra/details/projects/)**
 
-- 🔗 **[Project 1: Linux & Bash Automation](PASTE_YOUR_PROJECT_LINK_HERE)**
-  - Automated system updates, backups, and user management tasks using advanced Bash scripting.
-- 🔗 **[Project 2: Docker Containerization Application](PASTE_YOUR_PROJECT_LINK_HERE)**
-  - Successfully containerized a web application setup, optimizing environment consistency across development and production.
-- 🔗 **[Project 3: Cyber Security Vulnerability Assessment](PASTE_YOUR_PROJECT_LINK_HERE)**
-  - Conducted network mapping and security auditing using tools learned during Al-Nafi tenure.
 
 ---
 
