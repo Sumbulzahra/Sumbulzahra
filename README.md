@@ -1,18 +1,23 @@
 
-# Hi there, I'm Sumbul Zahra! 👋 (DevOps Engineer)
+# Hi there, I'm Sumbul Zahra 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sumbulzahra&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
-</p>
+### **DevOps & Cloud Infrastructure Engineer | Linux Systems Administrator**
 
-A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently shaping my career in the world of Automation, Infrastructure as Code (IaC), and Cloud Technologies. I love bridging the gap between development and operations to build scalable, secure, and efficient systems.
+Detail-oriented **DevOps & Linux Engineer** with hands-on experience administering **15+ production Linux servers** (RHEL/Ubuntu/CentOS), maintaining **99.8% uptime**, and reducing manual operational workloads by **75%** through Python and Bash automation[cite: 1]. Skilled in Infrastructure as Code (IaC), AWS cloud deployments, CI/CD pipeline design, system security hardening, and disaster recovery planning[cite: 1].
 
 ---
 
-### 🏢 Current & Past Experience
-- 🚀 **Internship:** Currently working as a DevOps Intern at **Hax Software**.
-- 🎓 **Education:** Studied **Cloud Cyber Security** at **Al-Nafi International College**.
-- 🎯 **Goal:** Constantly learning and mastering DevOps tools to build high-availability architectures.
+### 💼 Current & Past Experience
+
+* 🚀 **DevOps Engineer** @ Blackstone Foods *(Jan 2026 – Present)*[cite: 1]
+  * Supporting infrastructure operations, deployment workflows, and system reliability across professional production environments[cite: 1].
+* 🤖 **AI Software Intern** @ HexSoftwares Pvt. Ltd. *(May 2026 – Present)*[cite: 1]
+  * Designing interactive conversational architectures and integrating dynamic cloud-based configurations for multi-platform web apps[cite: 1].
+* 🐧 **Linux System Administrator** @ Al Nafi International College *(May 2024 – Present)*[cite: 1]
+  * Administering 15+ production Linux servers maintaining 99.8% uptime through proactive monitoring[cite: 1].
+  * Cutting manual operational workloads by 75% by authoring 30+ production-grade Bash and Python automation scripts[cite: 1].
+  * Reduced system vulnerabilities by 90% using automated package patch management (`yum`/`apt`) and mandatory SELinux security policies[cite: 1].
+  * Managed 200+ user accounts with Role-Based Access Control (RBAC), blocking 1,000+ unauthorized connection attempts monthly using UFW and Firewalld[cite: 1].
 
 ---
 
@@ -56,7 +61,7 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" width="40" height="40" />
-      <br>Bash Scripting
+      <br>Bash
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" alt="Prometheus" width="40" height="40" />
@@ -65,27 +70,32 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
   </tr>
 </table>
 
-
-- **Other Core Skills:** Networking Foundations, Cyber Security Analysis, Infrastructure Automation.
-
----
-
-### 📁 Featured Projects
-👉 **[Click here to view my complete portfolio on LinkedIn where all my projects are detailed!] (https://www.linkedin.com/in/miss-s-zahra/details/projects/)**
-
+**Core Security & Operations Competencies:**
+* **Security & Hardening:** SELinux, Firewalld, UFW, SSH Server Hardening, RBAC, Vulnerability Patching[cite: 1]
+* **Cloud & Operations:** AWS (EC2, S3, IAM, EBS, Lambda), LVM Storage Management, RPO/RTO Disaster Recovery, Cron[cite: 1]
+* **Networking & Virtualization:** DNS, DHCP, VPN, VirtualBox[cite: 1]
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumbulzahra&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="Zahra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumbulzahra&layout=compact&theme=dark&hide_border=true&bg_color=121212" alt="Top Languages" width="48%" />
-</p>
+### 📂 Featured Infrastructure Projects
+
+* ☁️ **[AWS Disaster Recovery & Cross-Region Failover](https://github.com/Sumbulzahra)**[cite: 1]
+  * Architected a complete AWS recovery strategy using EC2 AMIs, EBS Snapshots, and cross-region replication to eliminate data loss and regional outages[cite: 1].
+* 🤖 **[Automated Linux Backup & Maintenance Suite](https://github.com/Sumbulzahra)**[cite: 1]
+  * Engineered automated Python/Bash automation scripts integrated with `cron` for scheduling, backup archiving, and system log cleanup[cite: 1].
+* 🚢 **[3-Tier Microservices Kubernetes Deployment](https://github.com/Sumbulzahra)**[cite: 1]
+  * Provisioned multi-container production environments with persistent volumes (StatefulSets), Ingress controllers, and live telemetry monitoring[cite: 1].
 
 ---
 
-### 🌐 Connect with Me
-Let's connect and share ideas about DevOps, Cloud, and Tech!
+### 🌐 Publications & Open Source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miss-s-zahra)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+* 📚 **Author:** *"DevOps Automation: Streamlining System Tasks"* — Published guide covering automation strategies for Linux system administration[cite: 1].
+* 🛠️ **Open Source:** Active contributor to CNCF and cloud-native repositories solving `good-first-issue` bug reports and CI/CD maintenance.
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miss-s-zahra)[cite: 1]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumbulzahra111@gmail.com)[cite: 1]
