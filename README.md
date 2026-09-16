@@ -13,15 +13,15 @@
 ---
 
 ### 🚀 Executive Summary
-Detail-oriented **DevOps & Infrastructure Engineer** specializing in production Linux administration, cloud infrastructure automation, and DevSecOps[cite: 1]. Proven track record of managing **15+ production Linux servers** with **99.8% uptime**, cutting operational overhead by **75%** via custom Python/Bash tooling, and architecting AWS cross-region disaster recovery systems[cite: 1].
+Detail-oriented **DevOps & Infrastructure Engineer** specializing in production Linux administration, cloud infrastructure automation, and DevSecOps. Proven track record of managing **15+ production Linux servers** with **99.8% uptime**, cutting operational overhead by **75%** via custom Python/Bash tooling, and architecting AWS cross-region disaster recovery systems.
 
 ---
 
 ### ⚡ Key Impact Metrics
-- **99.8% System Uptime:** Administered multi-node RHEL/Ubuntu infrastructure under strict SLAs[cite: 1].
-- **75% Operational Workload Cut:** Engineered 30+ production automation scripts for backup, log rotation, and patching[cite: 1].
-- **90% Vulnerability Reduction:** Implemented automated patch cycles and mandatory SELinux security policies[cite: 1].
-- **1,000+ Threats Blocked Monthly:** Hardened network security layers using Firewalld, UFW, and RBAC controls[cite: 1].
+- **99.8% System Uptime:** Administered multi-node RHEL/Ubuntu infrastructure under strict SLAs.
+- **75% Operational Workload Cut:** Engineered 30+ production automation scripts for backup, log rotation, and patching.
+- **90% Vulnerability Reduction:** Implemented automated patch cycles and mandatory SELinux security policies.
+- **1,000+ Threats Blocked Monthly:** Hardened network security layers using Firewalld, UFW, and RBAC controls.
 
 ---
 
@@ -74,31 +74,31 @@ Detail-oriented **DevOps & Infrastructure Engineer** specializing in production 
   </tr>
 </table>
 
-- **Cloud Infrastructure:** AWS (EC2, S3, IAM, EBS, Lambda)[cite: 1]
-- **DevSecOps & System Hardening:** SELinux, Firewalld, UFW, SSH Server Hardening, RBAC, Vulnerability Scanning[cite: 1]
-- **Automation & Scripting:** Bash, Python, Ansible, Crontab[cite: 1]
-- **Storage & Networking:** LVM Architecture, EBS Snapshots, DNS, DHCP, VPN[cite: 1]
+- **Cloud Infrastructure:** AWS (EC2, S3, IAM, EBS, Lambda)
+- **DevSecOps & System Hardening:** SELinux, Firewalld, UFW, SSH Server Hardening, RBAC, Vulnerability Scanning
+- **Automation & Scripting:** Bash, Python, Ansible, Crontab
+- **Storage & Networking:** LVM Architecture, EBS Snapshots, DNS, DHCP, VPN
 
 ---
 
 ### 💼 Professional Experience
 
-- 🏢 **DevOps Engineer** | *Blackstone Foods* `Jan 2026 – Present`[cite: 1]
-  - Supporting infrastructure operations, deployment workflows, and system reliability[cite: 1].
-- 🤖 **AI Software Intern** | *HexSoftwares Pvt. Ltd.* `May 2026 – Present`[cite: 1]
-  - Developing conversational workflows and dynamic cloud-based JSON configuration architectures[cite: 1].
-- 🐧 **Linux Systems Administrator** | *Al Nafi International College* `May 2024 – Present`[cite: 1]
-  - Maintained 15+ production Linux servers with 99.8% uptime across RHEL, Ubuntu, and CentOS[cite: 1].
-  - Developed 30+ automation scripts, reducing manual workload by 75% and saving 20 hours weekly[cite: 1].
-  - Enforced RBAC across 200+ user accounts and hardened DNS/DHCP/VPN perimeter security[cite: 1].
+- 🏢 **DevOps Engineer** | *Blackstone Foods* `Jan 2026 – Present`
+  - Supporting infrastructure operations, deployment workflows, and system reliability.
+- 🤖 **AI Software Intern** | *HexSoftwares Pvt. Ltd.* `May 2026 – Present`
+  - Developing conversational workflows and dynamic cloud-based JSON configuration architectures.
+- 🐧 **Linux Systems Administrator** | *Al Nafi International College* `May 2024 – Present`
+  - Maintained 15+ production Linux servers with 99.8% uptime across RHEL, Ubuntu, and CentOS.
+  - Developed 30+ automation scripts, reducing manual workload by 75% and saving 20 hours weekly.
+  - Enforced RBAC across 200+ user accounts and hardened DNS/DHCP/VPN perimeter security.
 
 ---
 
 ### 📁 Production-Grade Infrastructure Projects
 
-- ☁️ **[AWS Multi-Region Disaster Recovery Suite](https://github.com/Sumbulzahra)**[cite: 1]
-  - Engineered cross-region backup replication and automated failover pipelines using EC2 AMIs and EBS Snapshots to meet zero-data-loss RPO/RTO goals[cite: 1].
-- 🚢 **[3-Tier Cloud-Native Kubernetes Infrastructure](https://github.com/Sumbulzahra)**[cite: 1]
-  - Deployed containerized microservices with persistent storage (StatefulSets), NGINX Ingress routing, and Prometheus telemetry dashboards[cite: 1].
-- 🛠️ **[Enterprise Linux Backup & Maintenance Automation](https://github.com/Sumbulzahra)**[cite: 1]
-  - Automated cron-driven Python suite for secure system backup, log management, and system health checks[cite: 1].
+- ☁️ **[AWS Multi-Region Disaster Recovery Suite](https://github.com/Sumbulzahra)**
+  - Engineered cross-region backup replication and automated failover pipelines using EC2 AMIs and EBS Snapshots to meet zero-data-loss RPO/RTO goals.
+- 🚢 **[3-Tier Cloud-Native Kubernetes Infrastructure](https://github.com/Sumbulzahra)**
+  - Deployed containerized microservices with persistent storage (StatefulSets), NGINX Ingress routing, and Prometheus telemetry dashboards.
+- 🛠️ **[Enterprise Linux Backup & Maintenance Automation](https://github.com/Sumbulzahra)**
+  - Automated cron-driven Python suite for secure system backup, log management, and system health checks.
