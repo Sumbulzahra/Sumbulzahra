@@ -22,11 +22,11 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="40" height="40" />
-      <br>Linux (RHEL/Ubuntu)
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/amazon_web_services.png" alt="AWS" width="40" height="40" />
-      <br>AWS (EC2, S3, IAM)
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+      <br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="40" height="40" />
@@ -48,7 +48,7 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" width="40" height="40" />
-      <br>Git / GitHub
+      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="40" height="40" />
@@ -64,6 +64,7 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
     </td>
   </tr>
 </table>
+
 
 - **Other Core Skills:** Networking Foundations, Cyber Security Analysis, Infrastructure Automation.
 
