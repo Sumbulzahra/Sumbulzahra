@@ -22,7 +22,11 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="40" height="40" />
-      <br>Linux
+      <br>Linux (RHEL/Ubuntu)
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/amazon_web_services.png" alt="AWS" width="40" height="40" />
+      <br>AWS (EC2, S3, IAM)
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="40" height="40" />
@@ -33,12 +37,30 @@ A passionate and driven **DevOps & Cloud Cyber Security Enthusiast** currently s
       <br>Kubernetes
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ansible.png" alt="Ansible" width="40" height="40" />
+      <br>Ansible
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" width="40" height="40" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" width="40" height="40" />
+      <br>Git / GitHub
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="40" height="40" />
       <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" width="40" height="40" />
       <br>Bash Scripting
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" alt="Prometheus" width="40" height="40" />
+      <br>Prometheus
     </td>
   </tr>
 </table>
